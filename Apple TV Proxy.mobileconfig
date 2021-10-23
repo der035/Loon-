@@ -18,27 +18,27 @@
 			<key>IsHotspot</key>
 			<false/>
 			<key>Password</key>
-			<string>1k0A53&amp;0</string>
+			<string>ceeae5gh</string>
 			<key>PayloadDescription</key>
 			<string>Configures Wi-Fi settings</string>
 			<key>PayloadDisplayName</key>
 			<string>Wi-Fi</string>
 			<key>PayloadIdentifier</key>
-			<string>com.apple.wifi.managed.68D4EBF9-0E76-4F44-8C19-CB4188080F70</string>
+			<string>com.apple.wifi.managed.AB6E80CF-962B-4EF6-88A2-F442203B98B8</string>
 			<key>PayloadType</key>
 			<string>com.apple.wifi.managed</string>
 			<key>PayloadUUID</key>
-			<string>68D4EBF9-0E76-4F44-8C19-CB4188080F70</string>
+			<string>AB6E80CF-962B-4EF6-88A2-F442203B98B8</string>
 			<key>PayloadVersion</key>
 			<integer>1</integer>
 			<key>ProxyServer</key>
-			<string>10.0.0.131</string>
+			<string>0.0.0.0</string>
 			<key>ProxyServerPort</key>
-			<integer>7890</integer>
+			<integer>8235</integer>
 			<key>ProxyType</key>
 			<string>Manual</string>
 			<key>SSID_STR</key>
-			<string>5327</string>
+			<string>ChinaNet-UGMC-5G</string>
 		</dict>
 	</array>
 	<key>PayloadDisplayName</key>
@@ -50,7 +50,7 @@
 	<key>PayloadType</key>
 	<string>Configuration</string>
 	<key>PayloadUUID</key>
-	<string>A6A82D88-3DC6-41E7-8F8A-2045B5B2E2AC</string>
+	<string>68F56FD5-59C1-4FFE-8151-1F6E0D342DCB</string>
 	<key>PayloadVersion</key>
 	<integer>1</integer>
 </dict>
